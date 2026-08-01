@@ -17,10 +17,10 @@
 
 ## 🧑‍💻 About Me
 
-I'm a data science enthusiast from Jaipur, India, passionate about turning raw data into actionable insights and building end-to-end machine learning solutions. My work spans **data analytics**, **machine learning**, **deep learning**, and **NLP** — with every project deployed as an interactive web application.
+I'm a data science enthusiast from Jaipur, India, passionate about turning raw data into actionable insights and building end-to-end machine learning solutions. My work spans **data analytics**, **machine learning**, **deep learning**, and **NLP** — with every project deployed as an interactive web application, and some taken further into production-style MLOps pipelines.
 
 - 🔭 Currently working on **AI/ML projects** with real-world datasets and live deployments
-- 🧠 Exploring **NLP** and **Computer Vision**
+- 🧠 Exploring **NLP**, **Computer Vision**, and **MLOps** (DVC, MLflow, CI/CD to AWS)
 - 🚀 All of my projects include **interactive Streamlit dashboards** with live demos
 - 💬 Ask me about **Python, Machine Learning, Data Visualization, Streamlit**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mridullata)**
@@ -45,6 +45,7 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-8C4FFF?style=flat-square&logoColor=white)
 
 </td>
@@ -117,14 +118,14 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 ## 🚀 Featured Projects
 
 ### 🚕 [NYC-Taxi-Trip-Duration](https://github.com/mridul0010/NYC-Taxi-Trip-Duration)
-> Trip duration prediction project built on NYC taxi trip data with end-to-end analysis and ML modeling
+> End-to-end MLOps regression pipeline predicting NYC taxi trip duration on 1.4M+ ride records. Integrates OSRM real-world routing data (lifting test R² from 0.79 → 0.806, MAE 2.89 min), with a reproducible 6-stage DVC pipeline, MLflow experiment tracking, geographic guardrails against implausible predictions, and a full CI/CD pipeline deploying via Docker to AWS EC2.
 
-`Python` `Pandas` `Scikit-Learn` `XGBoost` `Streamlit`
+`Python` `LightGBM` `XGBoost` `OSRM` `DVC` `MLflow` `Docker` `AWS (EC2/ECR/S3)` `GitHub Actions` `FastAPI` `Streamlit`
 
 ---
 
 ### 🫁 [Chest-X-Ray-Pneumonia-Detection-System](https://github.com/mridul0010/Chest-X-Ray-Pneumonia-Detection-System)
-> AI-powered diagnostic system for pneumonia detection from chest X-ray images using deep learning
+> AI-powered diagnostic system for pneumonia detection from chest X-ray images. Benchmarked a CNN-from-scratch, VGG16 feature extraction, and VGG16 fine-tuning — the fine-tuned model achieved 93% accuracy, 93% weighted F1-score, and 96% recall on pneumonia cases, deployed as a real-time Streamlit app.
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://chest-x-ray-pneumonia-detection-system.streamlit.app/)
 `Python` `TensorFlow` `Keras` `VGG16` `Streamlit`
@@ -132,7 +133,7 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 ---
 
 ### 🏦 [Customer-Churn-Prediction-Using-Machine-Learning-Deep-Learning](https://github.com/mridul0010/Customer-Churn-Prediction-Using-Machine-Learning-Deep-Learning)
-> End-to-end churn prediction pipeline comparing XGBoost, Random Forest & ANN — with SHAP explainability and a live prediction app
+> End-to-end churn prediction pipeline on 160K+ customer records, comparing XGBoost, Random Forest & ANN with SHAP explainability. Used SMOTE and threshold optimization to lift churn-detection recall from 57% → 70% (AUC-ROC 0.88), deployed as a live prediction app with risk tiers.
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://customer-churn-prediction-using-machine-learning-deep-learning.streamlit.app/)
 `Python` `XGBoost` `TensorFlow` `Scikit-Learn` `SHAP` `Streamlit`
@@ -162,7 +163,26 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mridul0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=mridul0010&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul0010&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridul0010&theme=tokyo-night&hide_border=true&area=true&custom_title=Dynamic%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+</p>
+
+---
+
+<div align="center">
 
 ### 🤝 Let's Connect
 
