@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mridullata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridullata)
 [![GitHub](https://img.shields.io/badge/GitHub-mridul0010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mridul0010)
-![Profile Views](https://komarev.com/ghpvc/?username=mridul0010&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
