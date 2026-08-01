@@ -94,6 +94,22 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 
 </td>
 </tr>
+<tr>
+<td><b>Scalable Systems & MLOps</b></td>
+<td>
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS%20ECR-FF9900?style=flat-square&logo=amazonelasticcontainerregistry&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![GitHub Actions CI/CD](https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -149,18 +165,18 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mridul0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mridul0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridul0010&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=mridul0010&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul0010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul0010&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridul0010&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridul0010&theme=tokyo-night&hide_border=true&area=true&custom_title=Dynamic%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
