@@ -17,12 +17,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a data science enthusiast from Jaipur, India, passionate about turning raw data into actionable insights and building end-to-end machine learning solutions. My work spans **data analytics**, **machine learning**, **deep learning**, and **NLP** — with every project deployed as an interactive web application.
+I'm a final-year B.Tech. AI & Data Science student from Jaipur, India, passionate about bridging the gap between exploratory data science and production-ready AI systems. My work spans **machine learning engineering**, **deep learning**, **NLP**, and **end-to-end MLOps** — focusing on reproducible pipelines, model benchmarking, and scalable cloud deployments.
 
-- 🔭 Currently working on **AI/ML projects** with real-world datasets and live deployments
-- 🧠 Exploring advanced **NLP** and **Computer Vision**
-- 🚀 All of my projects include **interactive Streamlit dashboards** with live demos
-- 💬 Ask me about **Python, Machine Learning, Data Visualization, and Streamlit**
+- 🔭 Currently building production-style ML pipelines and containerized AI architectures (`DVC`, `MLflow`, `AWS`)
+- 🧠 Exploring transfer learning for **Computer Vision** and route-aware feature engineering for geospatial ML
+- 🚀 All of my core projects feature rigorous experiment tracking, data quality guardrails, and interactive web deployments (`Streamlit`, `FastAPI`)
+- 💬 Ask me about **Python, MLOps, AWS, Machine Learning, and Deep Learning**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/mridullata)**
 
 ---
