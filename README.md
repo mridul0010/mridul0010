@@ -162,26 +162,7 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mridul0010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=mridul0010&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul0010&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridul0010&theme=tokyo-night&hide_border=true&area=true&custom_title=Dynamic%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
-</p>
-
----
-
-<div align="center">
 
 ### 🤝 Let's Connect
 
