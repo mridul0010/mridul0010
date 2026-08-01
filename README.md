@@ -27,7 +27,7 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Latest Tech Stack
 
 <table>
 <tr>
@@ -40,7 +40,7 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 </td>
 </tr>
 <tr>
-<td><b>Machine Learning</b></td>
+<td><b>Machine Learning & Explainability</b></td>
 <td>
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -66,6 +66,7 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-2980B9?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f5b?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -78,6 +79,7 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
 </tr>
@@ -98,23 +100,22 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 
 ## 🚀 Featured Projects
 
-### 🫁 [Chest X-Ray Pneumonia Detection System](https://github.com/mridul0010/Chest-X-Ray-Pneumonia-Detection-System)
-> AI-powered diagnostic tool for detecting pneumonia from chest X-ray images using fine-tuned VGG16 (~93% accuracy)
+### 🚕 [NYC-Taxi-Trip-Duration](https://github.com/mridul0010/NYC-Taxi-Trip-Duration)
+> Trip duration prediction project built on NYC taxi trip data with end-to-end analysis and ML modeling
+
+`Python` `Pandas` `Scikit-Learn` `XGBoost` `Streamlit`
+
+---
+
+### 🫁 [Chest-X-Ray-Pneumonia-Detection-System](https://github.com/mridul0010/Chest-X-Ray-Pneumonia-Detection-System)
+> AI-powered diagnostic system for pneumonia detection from chest X-ray images using deep learning
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://chest-x-ray-pneumonia-detection-system.streamlit.app/)
 `Python` `TensorFlow` `Keras` `VGG16` `Streamlit`
 
 ---
 
-### ⚔️ [NLP — Game of Thrones](https://github.com/mridul0010/NLP-Game-Of-Thrones)
-> Interactive NLP dashboard — text statistics, character network graphs, LDA topic modeling & GPT-2 story generation on *A Song of Ice and Fire*
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://nlp-game-of-thrones.streamlit.app/)
-`Python` `HuggingFace Transformers` `PyTorch` `spaCy` `Gensim` `NetworkX` `Streamlit`
-
----
-
-### 🏦 [Customer Churn Prediction — ML & Deep Learning](https://github.com/mridul0010/Customer-Churn-Prediction-Using-Machine-Learning-Deep-Learning)
+### 🏦 [Customer-Churn-Prediction-Using-Machine-Learning-Deep-Learning](https://github.com/mridul0010/Customer-Churn-Prediction-Using-Machine-Learning-Deep-Learning)
 > End-to-end churn prediction pipeline comparing XGBoost, Random Forest & ANN — with SHAP explainability and a live prediction app
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://customer-churn-prediction-using-machine-learning-deep-learning.streamlit.app/)
@@ -122,19 +123,26 @@ I'm a data science enthusiast from Jaipur, India, passionate about turning raw d
 
 ---
 
-### 📊 [E-Commerce Customer Churn Analysis & Retention Strategy](https://github.com/mridul0010/E-Commerce-Customer-Churn-Analysis-and-Retention-Strategy)
-> Interactive dashboard analyzing churn patterns across demographics, purchasing behavior & payment methods — with data-driven retention strategies
-
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://e-commerce-customer-churn-analysis-and-retention-strategy.streamlit.app/)
-`Python` `Pandas` `Plotly` `Streamlit`
-
----
-
-### 🚌 [Bus Route Analysis](https://github.com/mridul0010/Bus-Route-Analysis)
+### 🚌 [Bus-Route-Analysis](https://github.com/mridul0010/Bus-Route-Analysis)
 > Exploratory data analysis & interactive dashboard uncovering travel behavior, booking patterns & revenue insights from bus ticket data
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://bus-route-analysis.streamlit.app/)
 `Python` `Pandas` `Plotly` `Matplotlib` `Seaborn` `Streamlit`
+
+---
+
+### 🍔 [food-delivery-time-prediction](https://github.com/mridul0010/food-delivery-time-prediction)
+> Food delivery time prediction workflow using ML models, feature engineering, and interactive analysis
+
+`Python` `Pandas` `Scikit-Learn` `Streamlit`
+
+---
+
+### ⚔️ [NLP-Game-Of-Thrones](https://github.com/mridul0010/NLP-Game-Of-Thrones)
+> Interactive NLP dashboard with text analytics, topic modeling, and story generation on Game of Thrones text data
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF4B4B?style=flat-square)](https://nlp-game-of-thrones.streamlit.app/)
+`Python` `Transformers` `PyTorch` `spaCy` `Gensim` `Streamlit`
 
 ---
 
